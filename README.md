@@ -13,7 +13,7 @@ Result: 6
 
 > (define x (- 5 4 2))
 
-Result: x
+Result: -1
 
 > (> x 2)
 
