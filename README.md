@@ -7,12 +7,14 @@
 Синтаксис языка: https://groups.csail.mit.edu/mac/ftpdir/scheme-7.4/doc-html/
 
 Простейшие примеры использования:
->> (+ 1 2 3)
+> (+ 1 2 3)
 
->> 6
+Result: 6
 
->> (define x (- 5 4 2))
+> (define x (- 5 4 2))
 
->> (> x 2)
+Result: x
 
->> #f
+> (> x 2)
+
+Result: #f
